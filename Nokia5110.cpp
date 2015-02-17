@@ -3,10 +3,10 @@
 *
 * Created: 2/16/2015 09:27:05 PM
 * Author: Lehrian
-* Most of this code was shamelessly lifted from the Garage Lab code written by ShaneG.  
+* Most of this code was shamelessly lifted from the Garage Lab 
+* http://thegaragelab.com/nokia-5110-lcd-displays-on-the-attiny/ code written by ShaneG.
 * I made a few modifications to use Arduino core routines instead of the core routines
-* by ShaneG.  This code has been tested with the ATtiny85 and a Nokia 5110 screen.  Others
-* may work, but have not been tested.  
+* from Garage Lab.  This code has been tested with the ATtiny85 and a Nokia 5110 screen.  
 */
 /*--------------------------------------------------------------------------*
 * Nokia LCD Interface
