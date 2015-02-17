@@ -57,3 +57,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Debug/libNokia5110.a
+Debug/makedep.mk
+Debug/Makefile
+Debug/Nokia5110.d
+Debug/Nokia5110.o
