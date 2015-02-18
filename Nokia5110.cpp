@@ -337,7 +337,7 @@ const uint8_t SMALL_FONT[] PROGMEM = {
 		digitalWrite(PIN_RESET, LOW);
 		digitalWrite(PIN_RESET, HIGH);
 		lcdCommand(0x21 );  // LCD Extended Commands.
-		lcdCommand(0xA1 );  // Set LCD Vop (Contrast).
+		lcdCommand(0xB1 );  // Set LCD Vop (Contrast).
 		lcdCommand(0x04 );  // Set Temp coefficent. //0x04
 		lcdCommand(0x14 );  // LCD bias mode 1:48. //0x13
 		lcdCommand(0x20 );  // LCD Basic Commands
